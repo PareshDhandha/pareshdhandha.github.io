@@ -5,3 +5,6 @@ theme = "PaperMod"
 
 [pagination]
 pagerSize = 5
+
+[params]
+googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
