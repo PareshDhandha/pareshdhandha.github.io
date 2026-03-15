@@ -1,0 +1,24 @@
+<div class="product-card">
+    <h3>{{ .Get "title" }}</h3>
+
+<div class="product-img">
+<img src="{{ .Get "image" }}" alt="{{ .Get "title" }}">
+</div>
+
+<div class="product-info">
+
+<p class="rating">⭐ {{ .Get "rating" }}</p>
+
+<ul>
+<li>{{ .Get "f1" }}</li>
+<li>{{ .Get "f2" }}</li>
+<li>{{ .Get "f3" }}</li>
+</ul>
+
+<a href="{{ .Get "link" }}" target="_blank" class="buy-btn">
+Check Price on Amazon
+</a>
+
+</div>
+
+</div>

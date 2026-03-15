@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<article class="post">
+
+<h1>{{ .Title }}</h1>
+
+
+{{ if .Params.cover }}
+<img src="/{{ .Params.cover }}" class="cover-image">
+{{ end }}
+
+{{ partial "responsive-image.html" (dict "src" .Params.cover "alt" .Title) }}
+
+<div class="content">
+{{ .Content }}
+</div>
+
+</article>
+
+
+
+{{ end }}

@@ -1,6 +1,6 @@
 baseURL = "https://pareshdhandha.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'DevGear Lab'
 theme = "PaperMod"
 
 [pagination]
