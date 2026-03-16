@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Productivity on DevGear Lab</title>
-    <link>http://localhost:1313/tags/productivity/</link>
+    <link>https://pareshdhandha.github.io/tags/productivity/</link>
     <description>Recent content in Productivity on DevGear Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Mar 2026 19:59:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pareshdhandha.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Best Ai Tools for Developers 2026</title>
-      <link>http://localhost:1313/posts/10-best-ai-tools-for-developers-2026/</link>
+      <link>https://pareshdhandha.github.io/posts/10-best-ai-tools-for-developers-2026/</link>
       <pubDate>Sun, 15 Mar 2026 19:59:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/10-best-ai-tools-for-developers-2026/</guid>
+      <guid>https://pareshdhandha.github.io/posts/10-best-ai-tools-for-developers-2026/</guid>
       <description>Discover the best AI tools for developers in 2026 that boost productivity, automate coding tasks, and help build software faster.</description>
     </item>
   </channel>
