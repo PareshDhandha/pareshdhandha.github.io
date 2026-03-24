@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DevGear Lab</title>
-    <link>https://pareshdhandha.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on DevGear Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 19:59:36 +0530</lastBuildDate>
-    <atom:link href="https://pareshdhandha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Free AI Tools for Coding in 2026 (Boost Your Productivity)</title>
+      <link>//localhost:1313/posts/best-free-ai-tools-for-coding/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/best-free-ai-tools-for-coding/</guid>
+      <description>Discover the best free AI tools for coding in 2026 that help developers write code faster, debug efficiently, and improve productivity.</description>
+    </item>
+    <item>
+      <title>15 AI Tools That Every Programmer Should Try in 2026</title>
+      <link>//localhost:1313/posts/15-ai-tools-every-programmer-should-try/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/15-ai-tools-every-programmer-should-try/</guid>
+      <description>Discover the best AI tools for programmers in 2026 to boost productivity, automate coding, and build faster.</description>
+    </item>
     <item>
       <title>10 Best Ai Tools for Developers 2026</title>
-      <link>https://pareshdhandha.github.io/posts/10-best-ai-tools-for-developers-2026/</link>
+      <link>//localhost:1313/posts/10-best-ai-tools-for-developers-2026/</link>
       <pubDate>Sun, 15 Mar 2026 19:59:36 +0530</pubDate>
-      <guid>https://pareshdhandha.github.io/posts/10-best-ai-tools-for-developers-2026/</guid>
+      <guid>//localhost:1313/posts/10-best-ai-tools-for-developers-2026/</guid>
       <description>Discover the best AI tools for developers in 2026 that boost productivity, automate coding tasks, and help build software faster.</description>
     </item>
     <item>
       <title>Best Mechanical Keyboards for Programmers (2026 Guide)</title>
-      <link>https://pareshdhandha.github.io/posts/best-mechanical-keyboards-for-programmers/</link>
+      <link>//localhost:1313/posts/best-mechanical-keyboards-for-programmers/</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://pareshdhandha.github.io/posts/best-mechanical-keyboards-for-programmers/</guid>
+      <guid>//localhost:1313/posts/best-mechanical-keyboards-for-programmers/</guid>
       <description>Discover the best mechanical keyboards for programmers. Compare top keyboards for coding, productivity, and comfort.</description>
     </item>
   </channel>
