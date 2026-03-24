@@ -8,3 +8,11 @@ pagerSize = 5
 
 [params]
 googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.146.0"
+  HUGO_ENV = "production"
