@@ -4,15 +4,13 @@ description: "Discover the best AI tools for automating coding tasks in 2026. Le
 date: 2026-03-21
 draft: false
 tags:
-  [
-    "AI tools",
-    "coding automation",
-    "developer tools",
-    "programming",
-    "productivity",
-  ]
-cover:
-  image: "images/ai-automation-tools.jpg"
+  - AI tools
+  - coding automation
+  - developer tools
+  - programming
+  - productivity
+# cover:
+  # image: "images/ai-automation-tools.jpg"
 ---
 
 In 2026, coding is no longer just about writing lines of code manually.

@@ -4,15 +4,13 @@ description: "Discover the best AI tools for software development in 2026. Learn
 date: 2026-03-21
 draft: false
 tags:
-  [
-    "AI tools",
-    "software development",
-    "developer tools",
-    "programming",
-    "productivity",
-  ]
-cover:
-  image: "images/ai-software-tools.jpg"
+  - AI tools,
+  - software development,
+  - developer tools,
+  - programming,
+  - productivity,
+# cover:
+  # image: "images/ai-software-tools.jpg"
 ---
 
 In 2026, AI tools are transforming software development like never before.

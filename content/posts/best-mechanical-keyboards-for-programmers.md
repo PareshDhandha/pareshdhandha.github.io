@@ -7,8 +7,11 @@ cover:
   alt: "Best Mechanical Keyboards for Programmers"
   #   caption: "Mechanical keyboard for developers"
   relative: true
-tags: ["mechanical keyboard", "programming keyboard", "developer tools"]
-categories: ["Developer Tools"]
+tags:
+  - mechanical keyboard
+  - programming keyboard
+  - developer tools
+categories: - Developer Tools
 draft: false
 ---
 

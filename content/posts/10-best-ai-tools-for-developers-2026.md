@@ -9,7 +9,11 @@ cover:
   caption: "Top AI developer tools"
   relative: true
 # pinterest: "images/pin-ai-tools.jpg"
-tags: ["AI tools", "developer tools", "programming", "productivity"]
+tags:
+  - AI tools
+  - developer tools
+  - programming
+  - productivity
 ---
 
 # 10 Best AI Tools for Developers in 2026

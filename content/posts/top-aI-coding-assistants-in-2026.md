@@ -4,15 +4,13 @@ description: "Discover the best AI coding assistants for developers in 2026. Lea
 date: 2026-03-21
 draft: false
 tags:
-  [
-    "AI tools",
-    "coding assistants",
-    "developer tools",
-    "programming",
-    "productivity",
-  ]
-cover:
-  image: "images/ai-coding-assistants.jpg"
+  - AI tools
+  - coding assistants
+  - developer tools
+  - programming
+  - productivity
+# cover:
+#   image: "images/ai-coding-assistants.jpg"
 ---
 
 If you're a developer in 2026, AI coding assistants are no longer a luxury — they are a necessity.
