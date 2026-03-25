@@ -1,4 +1,4 @@
-baseURL = "https://app.netlify.com/"
+baseURL = "https://euphonious-kitten-d23197.netlify.app/"
 languageCode = 'en-us'
 title = 'DevGear Lab'
 theme = "PaperMod"
@@ -16,3 +16,7 @@ googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
 [build.environment]
   HUGO_VERSION = "0.146.0"
   HUGO_ENV = "production"
+
+
+relativeURLs = false
+canonifyURLs = true
