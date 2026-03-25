@@ -1,18 +1,15 @@
 ---
-title: "Best Mechanical Keyboards for Programmers (2026 Guide)"
-date: 2026-03-11
-description: "Discover the best mechanical keyboards for programmers. Compare top keyboards for coding, productivity, and comfort."
-cover:
-  image: "/images/cover.png"
-  alt: "Best Mechanical Keyboards for Programmers"
-  #   caption: "Mechanical keyboard for developers"
-  relative: true
-tags:
-  - mechanical keyboard
-  - programming keyboard
-  - developer tools
-categories: - Developer Tools
+title: "Best Mechanical Keyboards for Programmers in 2026"
+description: "Discover the best mechanical keyboards for programmers. Improve typing speed, comfort, and productivity with these top picks."
+date: 2026-03-20
 draft: false
+tags:
+  - keyboard
+  - programming
+  - developer tools
+  - productivity
+cover:
+  image: "images/cover.png"
 ---
 
 <!-- ![Best Mechanical Keyboards for Programmers](/images/cover.png) -->
