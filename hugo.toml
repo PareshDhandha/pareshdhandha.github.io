@@ -21,3 +21,17 @@ googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
 relativeURLs = false
 canonifyURLs = true
 
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 2
+
+[[menu.main]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = 3
