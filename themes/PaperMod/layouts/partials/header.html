@@ -1,5 +1,8 @@
 <header class="header">
     <nav class="nav">
+        <div class="mobile-menu-btn" onclick="toggleMenu()">
+             ☰ 
+        </div>
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
@@ -107,4 +110,20 @@
             {{- end }}
         </ul>
     </nav>
+<!-- Mobile Drawer -->
+<div id="mobileDrawer" class="mobile-drawer">
+
+  <!-- Close Button -->
+  <div class="close-btn" onclick="closeMenu()">✖</div>
+
+  <a href="/" onclick="closeMenu()">Home</a>
+  <a href="/about/" onclick="closeMenu()">About</a>
+  <a href="/contact/" onclick="closeMenu()">Contact</a>
+  <a href="/privacy-policy/" onclick="closeMenu()">Privacy</a>
+    <a href="/terms/" onclick="closeMenu()">Terms</a>
+
+</div>
+
+<!-- Overlay -->
+<div id="overlay" class="overlay" onclick="closeMenu()"></div>
 </header>

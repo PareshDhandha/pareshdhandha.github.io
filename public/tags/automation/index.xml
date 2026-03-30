@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Automation on DevGear Lab</title>
-    <link>https://pareshdhandha.github.io/tags/automation/</link>
+    <link>http://localhost:1313/tags/automation/</link>
     <description>Recent content in Automation on DevGear Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pareshdhandha.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Tools That Save Developers Hours of Work in 2026 (Work Smarter, Not Harder)</title>
-      <link>https://pareshdhandha.github.io/posts/ai-tools-that-save-developers-hours-of-work/</link>
+      <link>http://localhost:1313/posts/ai-tools-that-save-developers-hours-of-work/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://pareshdhandha.github.io/posts/ai-tools-that-save-developers-hours-of-work/</guid>
+      <guid>http://localhost:1313/posts/ai-tools-that-save-developers-hours-of-work/</guid>
       <description>Discover powerful AI tools that save developers hours of work. Learn how these tools automate coding, debugging, and testing to boost productivity.</description>
     </item>
   </channel>

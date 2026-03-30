@@ -7,7 +7,15 @@ theme = "PaperMod"
 pagerSize = 5
 
 [params]
-googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
+
+  googleSiteVerification = "Y3xjD_tmLSLA3f7g6oNTRXkmqb1B4HK3M9biDoysU1M"
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+  label = { icon = "/images/logo.png", iconHeight = 70 }
 
 [build]
   command = "hugo"
@@ -40,3 +48,6 @@ weight = 3
 name = "Terms"
 url = "/terms/"
 weight = 4
+
+
+

@@ -1,3 +1,16 @@
 {{- /* Footer custom content area start */ -}}
 {{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+
+<script>
+function toggleMenu() {
+  document.getElementById("mobileDrawer").classList.toggle("active");
+  document.getElementById("overlay").classList.toggle("active");
+}
+
+function closeMenu() {
+  document.getElementById("mobileDrawer").classList.remove("active");
+  document.getElementById("overlay").classList.remove("active");
+}
+</script>
 {{- /* Footer custom content area end */ -}}
+
