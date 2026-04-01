@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Productivity, on DevGear Lab</title>
+    <title>Productivity on DevGear Lab</title>
     <link>http://localhost:1313/tags/productivity/</link>
-    <description>Recent content in Productivity, on DevGear Lab</description>
+    <description>Recent content in Productivity on DevGear Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Best AI Tools for Software Development in 2026 (Boost Productivity 10x)</title>
-      <link>http://localhost:1313/posts/best-ai-tools-for-software-development/</link>
+      <title>Best AI Tools for Automating Coding Tasks in 2026 (Save Time &amp; Code Faster)</title>
+      <link>http://localhost:1313/posts/best-ai-tools-for-automating-coding-tasks/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/best-ai-tools-for-software-development/</guid>
-      <description>Discover the best AI tools for software development in 2026. Learn how these tools help developers write code faster, debug efficiently, and build better applications.</description>
+      <guid>http://localhost:1313/posts/best-ai-tools-for-automating-coding-tasks/</guid>
+      <description>Discover the best AI tools for automating coding tasks in 2026. Learn how developers use AI to automate coding, debugging, testing, and improve productivity.</description>
     </item>
-  </channel>
-</rss>
-title>Top AI Coding Assistants for Developers in 2026 (Boost Productivity 10x)</title>
+    <item>
+      <title>Top AI Coding Assistants for Developers in 2026 (Boost Productivity 10x)</title>
       <link>http://localhost:1313/posts/top-ai-coding-assistants-in-2026/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-ai-coding-assistants-in-2026/</guid>

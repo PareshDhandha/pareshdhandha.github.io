@@ -76,18 +76,22 @@ You agree to use this website only for lawful purposes and in a way that does no
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="/css/custom.css">
+</script><link rel="stylesheet" href="/css/custom.css"><meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxxxx">
+
+<script async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+  crossorigin="anonymous">
+</script>
+
+
 </head>
 <body id="top">
     <header class="header">
     <nav class="nav">
-        <div class="mobile-menu-btn" onclick="toggleMenu()">
-             ☰ 
-        </div>
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="DevGear Lab (Alt + H)">
                 <img src="http://localhost:1313/images/logo.png" alt="" aria-label="logo"
-                    height="70">DevGear Lab</a>
+                    height="30">DevGear Lab</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -110,6 +114,9 @@ You agree to use this website only for lawful purposes and in a way that does no
                     </svg>
                 </button>
             </div>
+        </div>
+        <div class="mobile-menu-btn" onclick="toggleMenu()">
+             ☰ 
         </div>
         <ul id="menu">
             <li>
@@ -159,30 +166,82 @@ You agree to use this website only for lawful purposes and in a way that does no
     <h1 class="post-title entry-hint-parent">
       Terms and Conditions
     </h1>
+     <div class="ads">
+        
+      </div>
     <div class="post-meta"><span title='2026-03-28 00:00:00 +0000 UTC'>March 28, 2026</span>&nbsp;·&nbsp;<span>1 min</span>
 
 </div>
   </header> 
 
 
-  <div class="post-content"><p>Welcome to our website.</p>
+  <div class="post-content">
+    
+    
+    <p>Welcome to our website.</p>
+
+    
+   
+    
 <p>By accessing and using this website, you accept and agree to be bound by the terms and conditions outlined below.</p>
-<h2 id="use-of-content">Use of Content<a hidden class="anchor" aria-hidden="true" href="#use-of-content">#</a></h2>
+
+    
+   
+    
+<h2 id="use-of-content">Use of Content</h2>
 <p>All content provided on this site is for informational purposes only. We make no guarantees regarding the accuracy, reliability, or completeness of any information.</p>
+
+    
+        <div class="ads">
+           
+        </div>
+    
+   
+    
 <p>You may not copy, reproduce, or distribute any content without permission.</p>
-<h2 id="user-responsibility">User Responsibility<a hidden class="anchor" aria-hidden="true" href="#user-responsibility">#</a></h2>
+
+    
+   
+    
+<h2 id="user-responsibility">User Responsibility</h2>
 <p>You agree to use this website only for lawful purposes and in a way that does not infringe the rights of others.</p>
-<h2 id="external-links">External Links<a hidden class="anchor" aria-hidden="true" href="#external-links">#</a></h2>
+
+    
+   
+    
+<h2 id="external-links">External Links</h2>
 <p>Our website may contain links to external websites. We are not responsible for the content or practices of these third-party sites.</p>
-<h2 id="limitation-of-liability">Limitation of Liability<a hidden class="anchor" aria-hidden="true" href="#limitation-of-liability">#</a></h2>
+
+    
+   
+    
+<h2 id="limitation-of-liability">Limitation of Liability</h2>
 <p>We will not be held liable for any losses or damages arising from the use of this website.</p>
-<h2 id="changes-to-terms">Changes to Terms<a hidden class="anchor" aria-hidden="true" href="#changes-to-terms">#</a></h2>
+
+    
+   
+    
+<h2 id="changes-to-terms">Changes to Terms</h2>
 <p>We may update these terms at any time without prior notice. Please check this page regularly for updates.</p>
-<h2 id="contact">Contact<a hidden class="anchor" aria-hidden="true" href="#contact">#</a></h2>
+
+    
+   
+    
+<h2 id="contact">Contact</h2>
 <p>If you have any questions regarding these terms, you can contact us via our Contact page.</p>
 
+    
+   
+    
+</p>
 
+    
+   
   </div>
+
+      <div class="ads">
+        
+      </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
@@ -261,6 +320,10 @@ You agree to use this website only for lawful purposes and in a way that does no
     </main>
     
 <footer class="footer">
+
+    <div class="ads">
+        
+    </div>
         <span>&copy; 2026 <a href="http://localhost:1313/">DevGear Lab</a></span> · 
 
     <span>
@@ -333,16 +396,30 @@ function closeMenu() {
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    const toggle = document.getElementById("theme-toggle");
+if (toggle) {
+  toggle.addEventListener("click", () => {
+    const html = document.querySelector("html");
+    if (html.dataset.theme === "dark") {
+      html.dataset.theme = 'light';
+      localStorage.setItem("pref-theme", 'light');
+    } else {
+      html.dataset.theme = 'dark';
+      localStorage.setItem("pref-theme", 'dark');
+    }
+  });
+}
 
 </script>
 </body>

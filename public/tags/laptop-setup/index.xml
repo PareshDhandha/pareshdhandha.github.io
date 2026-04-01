@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Laptop Setup on DevGear Lab</title>
+    <link>http://localhost:1313/tags/laptop-setup/</link>
+    <description>Recent content in Laptop Setup on DevGear Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/laptop-setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Laptop Setup for Developers in 2026 (Ultimate Productivity Guide)</title>
+      <link>http://localhost:1313/posts/best-laptop-setup-for-developers/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/best-laptop-setup-for-developers/</guid>
+      <description>Discover the best laptop setup for developers. Boost productivity with the right tools, accessories, and workspace optimization.</description>
+    </item>
+  </channel>
+</rss>

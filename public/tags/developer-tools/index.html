@@ -71,18 +71,22 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="/css/custom.css">
+</script><link rel="stylesheet" href="/css/custom.css"><meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxxxx">
+
+<script async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+  crossorigin="anonymous">
+</script>
+
+
 </head>
 <body class="list" id="top">
     <header class="header">
     <nav class="nav">
-        <div class="mobile-menu-btn" onclick="toggleMenu()">
-             ☰ 
-        </div>
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="DevGear Lab (Alt + H)">
                 <img src="http://localhost:1313/images/logo.png" alt="" aria-label="logo"
-                    height="70">DevGear Lab</a>
+                    height="30">DevGear Lab</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -105,6 +109,9 @@
                     </svg>
                 </button>
             </div>
+        </div>
+        <div class="mobile-menu-btn" onclick="toggleMenu()">
+             ☰ 
         </div>
         <ul id="menu">
             <li>
@@ -171,6 +178,10 @@ In this guide, we’ll explore the best AI tools for software development that e
     </main>
     
 <footer class="footer">
+
+    <div class="ads">
+        
+    </div>
         <span>&copy; 2026 <a href="http://localhost:1313/">DevGear Lab</a></span> · 
 
     <span>
@@ -243,135 +254,30 @@ function closeMenu() {
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
-
-</html>
-chron Q1 Mechanical Keyboard ⭐ 4.7/5
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-03-20 00:00:00 +0000 UTC'>March 20, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best Mechanical Keyboards for Programmers in 2026" href="http://localhost:1313/posts/best-mechanical-keyboards-for-programmers/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">15 AI Tools That Every Programmer Should Try in 2026
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>If you’re a developer in 2026, AI tools are no longer optional — they are essential. From writing code to debugging and automating workflows, AI can drastically improve your productivity.
-In this guide, we’ll explore 15 powerful AI tools every programmer should try.
-🚀 1. GitHub Copilot One of the most popular AI coding assistants that helps you write code faster with intelligent suggestions.
-Best for: Autocomplete, boilerplate code
-Platforms: VS Code, JetBrains
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-03-19 00:00:00 +0000 UTC'>March 19, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer>
-  <a class="entry-link" aria-label="post link to 15 AI Tools That Every Programmer Should Try in 2026" href="http://localhost:1313/posts/15-ai-tools-every-programmer-should-try/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="http://localhost:1313/tags/developer-tools/page/2/">Next&nbsp;&nbsp;»
-    </a>
-  </nav>
-</footer>
-    </main>
     
-<footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/">DevGear Lab</a></span> · 
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a><script>
-function toggleMenu() {
-  document.getElementById("mobileDrawer").classList.toggle("active");
-  document.getElementById("overlay").classList.toggle("active");
-}
-
-function closeMenu() {
-  document.getElementById("mobileDrawer").classList.remove("active");
-  document.getElementById("overlay").classList.remove("active");
-}
-</script>
-
-<script>
-    let menu = document.getElementById('menu');
-    if (menu) {
-        
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
-        if (scrollPosition) {
-            menu.scrollLeft = parseInt(scrollPosition, 10);
-        }
-        
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
+    const toggle = document.getElementById("theme-toggle");
+if (toggle) {
+  toggle.addEventListener("click", () => {
+    const html = document.querySelector("html");
+    if (html.dataset.theme === "dark") {
+      html.dataset.theme = 'light';
+      localStorage.setItem("pref-theme", 'light');
+    } else {
+      html.dataset.theme = 'dark';
+      localStorage.setItem("pref-theme", 'dark');
     }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
+  });
+}
 
 </script>
 </body>

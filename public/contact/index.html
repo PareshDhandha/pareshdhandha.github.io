@@ -72,18 +72,22 @@ We usually respond within 24–48 hours.">
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="/css/custom.css">
+</script><link rel="stylesheet" href="/css/custom.css"><meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxxxx">
+
+<script async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+  crossorigin="anonymous">
+</script>
+
+
 </head>
 <body id="top">
     <header class="header">
     <nav class="nav">
-        <div class="mobile-menu-btn" onclick="toggleMenu()">
-             ☰ 
-        </div>
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="DevGear Lab (Alt + H)">
                 <img src="http://localhost:1313/images/logo.png" alt="" aria-label="logo"
-                    height="70">DevGear Lab</a>
+                    height="30">DevGear Lab</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -106,6 +110,9 @@ We usually respond within 24–48 hours.">
                     </svg>
                 </button>
             </div>
+        </div>
+        <div class="mobile-menu-btn" onclick="toggleMenu()">
+             ☰ 
         </div>
         <ul id="menu">
             <li>
@@ -155,18 +162,46 @@ We usually respond within 24–48 hours.">
     <h1 class="post-title entry-hint-parent">
       Contact Us
     </h1>
+     <div class="ads">
+        
+      </div>
     <div class="post-meta"><span title='2026-03-28 00:00:00 +0000 UTC'>March 28, 2026</span>&nbsp;·&nbsp;<span>1 min</span>
 
 </div>
   </header> 
 
 
-  <div class="post-content"><p>If you have any questions, suggestions, or business inquiries, feel free to contact us.</p>
+  <div class="post-content">
+    
+    
+    <p>If you have any questions, suggestions, or business inquiries, feel free to contact us.</p>
+
+    
+   
+    
 <p>📧 Email: <a href="mailto:pareshdhandha@gmail.com">pareshdhandha@gmail.com</a></p>
+
+    
+   
+    
 <p>We usually respond within 24–48 hours.</p>
 
+    
+        <div class="ads">
+           
+        </div>
+    
+   
+    
+</p>
 
+    
+   
   </div>
+
+      <div class="ads">
+        
+      </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
@@ -245,6 +280,10 @@ We usually respond within 24–48 hours.">
     </main>
     
 <footer class="footer">
+
+    <div class="ads">
+        
+    </div>
         <span>&copy; 2026 <a href="http://localhost:1313/">DevGear Lab</a></span> · 
 
     <span>
@@ -317,16 +356,30 @@ function closeMenu() {
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    const toggle = document.getElementById("theme-toggle");
+if (toggle) {
+  toggle.addEventListener("click", () => {
+    const html = document.querySelector("html");
+    if (html.dataset.theme === "dark") {
+      html.dataset.theme = 'light';
+      localStorage.setItem("pref-theme", 'light');
+    } else {
+      html.dataset.theme = 'dark';
+      localStorage.setItem("pref-theme", 'dark');
+    }
+  });
+}
 
 </script>
 </body>

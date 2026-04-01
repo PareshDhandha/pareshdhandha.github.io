@@ -71,18 +71,22 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="/css/custom.css">
+</script><link rel="stylesheet" href="/css/custom.css"><meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxxxx">
+
+<script async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+  crossorigin="anonymous">
+</script>
+
+
 </head>
 <body class="list" id="top">
     <header class="header">
     <nav class="nav">
-        <div class="mobile-menu-btn" onclick="toggleMenu()">
-             ☰ 
-        </div>
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="DevGear Lab (Alt + H)">
                 <img src="http://localhost:1313/images/logo.png" alt="" aria-label="logo"
-                    height="70">DevGear Lab</a>
+                    height="30">DevGear Lab</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -105,6 +109,9 @@
                     </svg>
                 </button>
             </div>
+        </div>
+        <div class="mobile-menu-btn" onclick="toggleMenu()">
+             ☰ 
         </div>
         <ul id="menu">
             <li>
@@ -242,6 +249,10 @@ Platforms: VS Code, JetBrains
     </main>
     
 <footer class="footer">
+
+    <div class="ads">
+        
+    </div>
         <span>&copy; 2026 <a href="http://localhost:1313/">DevGear Lab</a></span> · 
 
     <span>
@@ -314,16 +325,30 @@ function closeMenu() {
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    const toggle = document.getElementById("theme-toggle");
+if (toggle) {
+  toggle.addEventListener("click", () => {
+    const html = document.querySelector("html");
+    if (html.dataset.theme === "dark") {
+      html.dataset.theme = 'light';
+      localStorage.setItem("pref-theme", 'light');
+    } else {
+      html.dataset.theme = 'dark';
+      localStorage.setItem("pref-theme", 'dark');
+    }
+  });
+}
 
 </script>
 </body>

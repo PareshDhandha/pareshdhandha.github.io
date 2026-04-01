@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on DevGear Lab</title>
+    <link>http://localhost:1313/categories/technology/</link>
+    <description>Recent content in Technology on DevGear Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top AI Tools for Writing Code Faster in 2026 (Boost Productivity 10x)</title>
+      <link>http://localhost:1313/posts/top-ai-tools-for-writing-code-faster/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-ai-tools-for-writing-code-faster/</guid>
+      <description>Discover the best AI tools for writing code faster. Automate coding, debugging, and boost productivity with powerful AI tools.</description>
+    </item>
+  </channel>
+</rss>
