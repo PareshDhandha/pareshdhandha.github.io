@@ -9,10 +9,52 @@
     <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI Tools</title>
+      <link>http://localhost:1313/tags/ai-tools/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Budget Tech</title>
       <link>http://localhost:1313/tags/budget-tech/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/budget-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desk Setup</title>
+      <link>http://localhost:1313/tags/desk-setup/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/desk-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Setup</title>
+      <link>http://localhost:1313/tags/developer-setup/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/developer-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Tools</title>
+      <link>http://localhost:1313/tags/developer-tools/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/developer-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Workspace</title>
+      <link>http://localhost:1313/tags/developer-workspace/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/developer-workspace/</guid>
       <description></description>
     </item>
     <item>
@@ -37,6 +79,34 @@
       <description></description>
     </item>
     <item>
+      <title>Laptop Setup</title>
+      <link>http://localhost:1313/tags/laptop-setup/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/laptop-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming Setup</title>
+      <link>http://localhost:1313/tags/programming-setup/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/programming-setup/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tech</title>
       <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
@@ -44,45 +114,17 @@
       <description></description>
     </item>
     <item>
-      <title>Dolby Audio</title>
-      <link>http://localhost:1313/tags/dolby-audio/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dolby-audio/</guid>
+      <title>Workspace</title>
+      <link>http://localhost:1313/tags/workspace/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/workspace/</guid>
       <description></description>
     </item>
     <item>
-      <title>Earbuds Review</title>
-      <link>http://localhost:1313/tags/earbuds-review/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/earbuds-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smart Gadgest</title>
-      <link>http://localhost:1313/tags/smart-gadgest/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smart-gadgest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech Gadgest</title>
-      <link>http://localhost:1313/tags/tech-gadgest/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech-gadgest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wireless Earbuds</title>
-      <link>http://localhost:1313/tags/wireless-earbuds/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wireless-earbuds/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Tools</title>
-      <link>http://localhost:1313/tags/ai-tools/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-tools/</guid>
+      <title>Workspace Ideas</title>
+      <link>http://localhost:1313/tags/workspace-ideas/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/workspace-ideas/</guid>
       <description></description>
     </item>
     <item>
@@ -128,13 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>Developer Tools</title>
-      <link>http://localhost:1313/tags/developer-tools/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer-tools/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Developer Tools,</title>
       <link>http://localhost:1313/tags/developer-tools/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -142,24 +177,10 @@
       <description></description>
     </item>
     <item>
-      <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Productivity,</title>
       <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
     <item>
@@ -174,13 +195,6 @@
       <link>http://localhost:1313/tags/software-development/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/software-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coding</title>
-      <link>http://localhost:1313/tags/coding/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/coding/</guid>
       <description></description>
     </item>
     <item>
