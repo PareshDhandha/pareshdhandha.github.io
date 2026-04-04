@@ -5,6 +5,8 @@ draft: false
 tags: ["earbuds", "tech", "gadgets"]
 categories: ["Tech"]
 description: "Looking for premium earbuds under ₹2000? Check top picks with ANC, deep bass, and long battery life."
+cover:
+  image: "images/ear.png"
 ---
 
 ## 🎧 Best Earbuds Under ₹2000 in 2026

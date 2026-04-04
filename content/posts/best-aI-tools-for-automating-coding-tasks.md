@@ -9,8 +9,8 @@ tags:
   - developer tools
   - programming
   - productivity
-# cover:
-  # image: "images/ai-automation-tools.jpg"
+cover:
+  image: "images/aibest.png"
 ---
 
 In 2026, coding is no longer just about writing lines of code manually.

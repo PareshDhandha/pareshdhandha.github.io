@@ -8,6 +8,8 @@ tags:
   - coding
   - developer tools
   - programming
+cover:
+  image: "images/aitool.png"
 ---
 
 AI is transforming the way developers write code. The best part? You don’t need to spend money to use powerful AI coding tools.

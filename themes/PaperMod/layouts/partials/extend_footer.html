@@ -5,11 +5,13 @@
 function toggleMenu() {
   document.getElementById("mobileDrawer").classList.toggle("active");
   document.getElementById("overlay").classList.toggle("active");
+  // document.body.style.overflow = "hidden";
 }
 
 function closeMenu() {
   document.getElementById("mobileDrawer").classList.remove("active");
   document.getElementById("overlay").classList.remove("active");
+  // document.body.style.overflow = "visible";
 }
 </script>
 {{- /* Footer custom content area end */ -}}

@@ -9,8 +9,8 @@ tags:
   - developer tools
   - programming
   - productivity
-# cover:
-#   image: "images/ai-coding-assistants.jpg"
+cover:
+  image: "images/aiassi.png"
 ---
 
 If you're a developer in 2026, AI coding assistants are no longer a luxury — they are a necessity.

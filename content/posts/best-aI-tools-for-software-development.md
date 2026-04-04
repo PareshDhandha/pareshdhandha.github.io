@@ -9,8 +9,8 @@ tags:
   - developer tools,
   - programming,
   - productivity,
-# cover:
-  # image: "images/ai-software-tools.jpg"
+cover:
+  image: "images/ai10.jpg"
 ---
 
 In 2026, AI tools are transforming software development like never before.

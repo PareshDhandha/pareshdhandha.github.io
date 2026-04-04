@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Productivity on DevGear Lab</title>
+    <title>Productivity, on DevGear Lab</title>
     <link>http://localhost:1313/tags/productivity/</link>
-    <description>Recent content in Productivity on DevGear Lab</description>
+    <description>Recent content in Productivity, on DevGear Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Best Developer Workspace Setup in 2026 (Ultimate Productivity Guide)</title>
-      <link>http://localhost:1313/posts/best-budgest-earbuds/</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/best-budgest-earbuds/</guid>
-      <description>Create the perfect developer workspace setup with ergonomic tools, minimal design, and productivity-focused accessories.</description>
+      <title>Best AI Tools for Software Development in 2026 (Boost Productivity 10x)</title>
+      <link>http://localhost:1313/posts/best-ai-tools-for-software-development/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/best-ai-tools-for-software-development/</guid>
+      <description>Discover the best AI tools for software development in 2026. Learn how these tools help developers write code faster, debug efficiently, and build better applications.</description>
     </item>
-    <item>
-      <title>Best Developer Workspace Setup in 2026 (Ultimate Productivity Guide)</title>
-      <link>http://localhost:1313/posts/best-developer-workspace-setup/</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/best-developer-workspace-setup/</guid>
-      <description>Create the perfect developer workspace setup with ergonomic tools, minimal design, and productivity-focused accessories.</description>
-    </item>
-    <item>
-      <title>Top AI Tools for Writing Code Faster in 2026 (Boost Productivity 10x)</title>
+  </channel>
+</rss>
+ 10x)</title>
       <link>http://localhost:1313/posts/top-ai-tools-for-writing-code-faster/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-ai-tools-for-writing-code-faster/</guid>

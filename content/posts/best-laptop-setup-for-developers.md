@@ -7,7 +7,7 @@ tags:
   ["laptop setup", "developer setup", "programming", "coding", "productivity"]
 categories: ["Technology"]
 cover:
-  image: "images/laptop-setup.jpg"
+  image: "images/la.jpg"
 weight: 3
 ---
 

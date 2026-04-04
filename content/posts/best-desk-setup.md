@@ -7,7 +7,7 @@ tags:
   ["desk setup", "programming", "developer setup", "workspace", "productivity"]
 categories: ["Technology"]
 cover:
-  image: "images/desk-setup.jpg"
+  image: "images/ls2.png"
 weight: 2
 ---
 

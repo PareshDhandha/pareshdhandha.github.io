@@ -13,7 +13,7 @@ tags:
   ]
 categories: ["Technology"]
 cover:
-  image: "images/developer-workspace.jpg"
+  image: "images/ls1.png"
 weight: 1
 ---
 

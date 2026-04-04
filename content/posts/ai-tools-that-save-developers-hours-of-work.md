@@ -9,8 +9,8 @@ tags:
   - coding tools
   - programming
   - automation
-# cover:
-  # image: "images/ai-productivity-tools.jpg"
+cover:
+  image: "images/bc.jpg"
 ---
 
 In 2026, developers are no longer spending hours writing repetitive code or debugging manually.
