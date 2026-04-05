@@ -7,8 +7,8 @@ body {
 }
 
 html[data-theme="dark"] body {
-    background-color: #000 !important;
-    color: #fff !important
+    background-color: #0d1117 !important;
+    color: #e6edf3 !important
 }
 
 html[data-theme="light"] body {
@@ -48,6 +48,12 @@ html[data-theme="dark"] .content {
     background: transparent !important;
 }
 
+
+html[data-theme="dark"] .post-content,
+html[data-theme="dark"] .post-title {
+    color: #e6edf3 !important;
+}
+
 .container {
     max-width: 760px;
     margin: auto;
@@ -71,13 +77,34 @@ html[data-theme="dark"] .content {
     border-radius: 8px;
 }
 
+.post-title {
+    font-size: 34px;
+    line-height: 1.3;
+    margin-bottom: 10px;
+}
+
 .post h1 {
     font-size: 32px;
 }
 
-.content {
+.post h2 {
+    font-size: 26px;
+    margin-top: 30px;
+}
+
+.post h3 {
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.post p {
+    margin-bottom: 16px;
+}
+
+.post-content {
     line-height: 1.7;
     font-size: 18px;
+    margin-top: 20px;
 }
 
 .product-card {
@@ -142,17 +169,19 @@ html[data-theme="dark"] .content {
 
 .post img {
     width: 100%;
-    max-height: 400px;
-    object-fit: cover;
-    border-radius: 8px;
+    /* height: auto;
+    max-height: 350px;
+    object-fit: cover; */
+    border-radius: 10px;
+    margin: 15px 0;
 }
 
 .cover-image {
     width: 100%;
-    max-height: 450px;
+    height: 300px;
     object-fit: cover;
-    margin: 20px 0;
     border-radius: 10px;
+    margin: 20px 0;
 }
 
 /* 📱 Mobile font fixes */
@@ -182,6 +211,16 @@ html[data-theme="dark"] .content {
     .post-content h3 {
         font-size: 18px;
     }
+
+    .cover-image {
+        height: 200px;
+    }
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .logo img {
