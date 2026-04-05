@@ -12,7 +12,7 @@ categories:
   - Tech
 description: "Find the best earbuds under ₹1000 with deep bass, long battery, and clear calls. Top budget picks in 2026."
 cover:
-  image: "images/earbuds.png"
+  image: "images/12.png"
   alt: "Best earbuds under 1000"
   caption: "Top budget earbuds in India 2026"
   relative: true

@@ -4,7 +4,7 @@ draft: false
 title: "10 Best AI Tools for Developers in 2026 (Boost Productivity & Code Faster)"
 description: "Discover the best AI tools for developers in 2026 that boost productivity, automate coding tasks, and help build software faster."
 cover:
-  image: "images/aicover.png"
+  image: "images/1.png"
   alt: "Best AI tools for developers"
   caption: "Top AI developer tools"
   relative: true

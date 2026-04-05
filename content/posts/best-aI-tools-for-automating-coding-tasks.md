@@ -10,7 +10,7 @@ tags:
   - programming
   - productivity
 cover:
-  image: "images/aibest.png"
+  image: "images/4.png"
   alt: "AI tools for coding automation"
   caption: "Best AI tools to automate coding tasks in 2026"
   relative: true

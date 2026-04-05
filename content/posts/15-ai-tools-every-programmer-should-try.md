@@ -9,7 +9,7 @@ tags:
   - programming
   - productivity
 cover:
-  image: "images/ai15.png"
+  image: "images/2.png"
   alt: "Best AI tools for programmers 2026"
   caption: "Top 15 AI tools every developer should try"
   relative: true

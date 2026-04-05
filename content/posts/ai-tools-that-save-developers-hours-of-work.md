@@ -10,7 +10,7 @@ tags:
   - programming
   - automation
 cover:
-  image: "images/bc.jpg"
+  image: "images/3.png"
   alt: "AI tools saving developer time"
   caption: "Best AI tools to save coding time in 2026"
   relative: true

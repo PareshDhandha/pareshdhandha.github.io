@@ -12,7 +12,7 @@ tags:
 categories:
   - Technology
 cover:
-  image: "images/ls1.png"
+  image: "images/10.png"
   alt: "Best developer workspace setup"
   caption: "Modern and minimal developer workspace setup"
   relative: true
