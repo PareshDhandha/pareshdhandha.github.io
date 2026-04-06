@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on DevGear Lab</title>
+    <link>http://localhost:1313/tags/react/</link>
+    <description>Recent content in React on DevGear Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Tools for React Developers in 2026 (Boost Productivity 🚀)</title>
+      <link>http://localhost:1313/posts/bbest-tools-for-react-developers/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bbest-tools-for-react-developers/</guid>
+      <description>Discover the best tools for React developers in 2026. Improve productivity, build faster apps, and streamline your workflow with these powerful tools.</description>
+    </item>
+  </channel>
+</rss>
