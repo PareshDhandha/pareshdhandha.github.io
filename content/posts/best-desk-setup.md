@@ -12,7 +12,7 @@ tags:
 categories:
   - Technology
 cover:
-  image: "images/9.png"
+  image: "images/9.jpeg"
   alt: "Best desk setup for programmers"
   caption: "Minimal and productive developer workspace setup"
   relative: true

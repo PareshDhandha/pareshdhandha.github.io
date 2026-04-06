@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Budget Earbuds</title>
+      <link>http://localhost:1313/tags/budget-earbuds/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/budget-earbuds/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Budget Tech</title>
       <link>http://localhost:1313/tags/budget-tech/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
@@ -114,6 +121,13 @@
       <description></description>
     </item>
     <item>
+      <title>Wireless Earbuds</title>
+      <link>http://localhost:1313/tags/wireless-earbuds/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wireless-earbuds/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Workspace</title>
       <link>http://localhost:1313/tags/workspace/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
@@ -125,13 +139,6 @@
       <link>http://localhost:1313/tags/workspace-ideas/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/workspace-ideas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Tools,</title>
-      <link>http://localhost:1313/tags/ai-tools/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-tools/</guid>
       <description></description>
     </item>
     <item>
@@ -170,28 +177,7 @@
       <description></description>
     </item>
     <item>
-      <title>Developer Tools,</title>
-      <link>http://localhost:1313/tags/developer-tools/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer-tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivity,</title>
-      <link>http://localhost:1313/tags/productivity/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming,</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Development,</title>
+      <title>Software Development</title>
       <link>http://localhost:1313/tags/software-development/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/software-development/</guid>
@@ -202,6 +188,13 @@
       <link>http://localhost:1313/tags/keyboard/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/keyboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanical Keyboard</title>
+      <link>http://localhost:1313/tags/mechanical-keyboard/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mechanical-keyboard/</guid>
       <description></description>
     </item>
   </channel>

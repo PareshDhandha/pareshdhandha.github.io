@@ -10,7 +10,7 @@ tags:
   - programming
   - productivity
 cover:
-  image: "images/6.png"
+  image: "images/6.jpeg"
   alt: "Top AI coding assistants for developers"
   caption: "Best AI tools to boost coding productivity in 2026"
   relative: true

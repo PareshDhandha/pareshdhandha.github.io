@@ -12,7 +12,7 @@ tags:
 categories:
   - Technology
 cover:
-  image: "images/11.jpg"
+  image: "images/11.jpeg"
   alt: "Best laptop setup for developers"
   caption: "Modern developer laptop workspace setup"
   relative: true

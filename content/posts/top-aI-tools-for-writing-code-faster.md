@@ -12,7 +12,7 @@ tags:
 categories:
   - Technology
 cover:
-  image: "images/7.jpg"
+  image: "images/7.jpeg"
   alt: "AI tools for coding faster"
   caption: "Best AI coding tools to boost developer productivity"
   relative: true

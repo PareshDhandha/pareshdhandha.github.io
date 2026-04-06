@@ -12,7 +12,7 @@ tags:
 categories:
   - Technology
 cover:
-  image: "images/10.png"
+  image: "images/10.jpeg"
   alt: "Best free AI tools for coding 2026"
   caption: "Top free AI coding tools for developers"
   relative: true
