@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Tools for React Developers in 2026 (Boost Productivity 🚀)</title>
-      <link>http://localhost:1313/posts/bbest-tools-for-react-developers/</link>
+      <link>http://localhost:1313/posts/best-tools-for-react-developers/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bbest-tools-for-react-developers/</guid>
+      <guid>http://localhost:1313/posts/best-tools-for-react-developers/</guid>
       <description>Discover the best tools for React developers in 2026. Improve productivity, build faster apps, and streamline your workflow with these powerful tools.</description>
     </item>
     <item>
@@ -173,6 +173,13 @@
       <pubDate>Sun, 15 Mar 2026 19:59:36 +0530</pubDate>
       <guid>http://localhost:1313/posts/10-best-ai-tools-for-developers-2026/</guid>
       <description>Discover the best AI tools for developers in 2026 that boost productivity, automate coding tasks, and help build software faster.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/best-tools-for-javascript-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/best-tools-for-javascript-developers/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
